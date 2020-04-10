@@ -1,0 +1,15 @@
+{
+  "name" : "positiveHealth",
+  "type" : "NLPIntent",
+  "intentParameters" : [ ],
+  "exampleData" : [ {
+    "sentence" : "positive health theraphy",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Mental health",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Tips on positive",
+    "exampleEntities" : [ ]
+  } ]
+}

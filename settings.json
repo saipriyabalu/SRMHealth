@@ -1,0 +1,22 @@
+{
+  "settings" : {
+    "Multistage_Pipeline" : true,
+    "Verbose_Output" : false,
+    "Pipeline_Output_Size" : 100,
+    "Result_Size" : 10,
+    "dynamicEntityConfig" : {
+      "baseUrl" : "",
+      "interval" : 6
+    },
+    "translator" : null,
+    "insightsDisableMasking" : false,
+    "aicConfig" : [ {
+      "payloadType" : "something",
+      "state" : "receipt"
+    } ]
+  },
+  "conversationHistoryEnabled" : false,
+  "insightsEnabled" : true,
+  "intentResultHistoryEnabled" : false,
+  "qnAResultHistoryEnabled" : false
+}

@@ -1,0 +1,30 @@
+{
+  "name" : "Symptom",
+  "type" : "ENUMVALUES",
+  "enumValues" : [ {
+    "canonicalName" : "diabetes",
+    "synonyms" : [ "diabetes", "thyroid problems", "infertility", "calcium deficiency", "bone disorders", "sugar", "blood sugar" ]
+  }, {
+    "canonicalName" : "Child",
+    "synonyms" : [ "Child" ]
+  }, {
+    "canonicalName" : "Skin",
+    "synonyms" : [ "skin", "hair", "moles", "scar", "acne", "skin allergy" ]
+  }, {
+    "canonicalName" : "Routine checkups",
+    "synonyms" : [ "routine checkups", "screening tests", "flu shots", "immunization shots", "flu" ]
+  }, {
+    "canonicalName" : "heart",
+    "synonyms" : [ "heart failure", "heart attack", "high blood pressure" ]
+  }, {
+    "canonicalName" : "allergy",
+    "synonyms" : [ "asthma", "eczema", "food allergies", "insect sting allergies", "autoimmune" ]
+  } ],
+  "namedEntityRuleParams" : [ ],
+  "multiValue" : false,
+  "fuzzyMatch" : false,
+  "promptForDisambiguation" : false,
+  "botPrompts" : [ ],
+  "validationRules" : [ ],
+  "compositeBagItems" : [ ]
+}

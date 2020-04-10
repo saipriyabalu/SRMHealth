@@ -1,0 +1,6 @@
+{
+  "invocationName" : "HealthcareBot",
+  "shortDescription" : "This is HealthcareBot",
+  "fullDescription" : null,
+  "sampleInvocations" : [ "An example utterance" ]
+}

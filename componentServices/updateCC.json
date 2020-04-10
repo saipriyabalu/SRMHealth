@@ -1,0 +1,9 @@
+{
+  "type" : "HOSTED",
+  "name" : "updateCC",
+  "version" : "1.1",
+  "packageFileName" : "my-custom-component-1.0.0.tgz",
+  "packageChecksum" : "e3a00561f86fd78c27e19eece091e55f",
+  "runtime" : "node",
+  "enabled" : true
+}

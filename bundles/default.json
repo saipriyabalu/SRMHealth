@@ -1,0 +1,41 @@
+{
+  "languageTag" : "default",
+  "keys" : {
+    "system.intent.healthstatus.conversationName" : {
+      "message" : "healthstatus"
+    },
+    "system.qna.healthstatus.answer" : {
+      "message" : null
+    },
+    "system.qna.greetings.answer" : {
+      "message" : null
+    },
+    "system.qna.MedicalHistory.answer" : {
+      "message" : null
+    },
+    "system.intent.greetings.conversationName" : {
+      "message" : "greetings"
+    },
+    "system.intent.positiveHealth.conversationName" : {
+      "message" : "positiveHealth"
+    },
+    "system.intent.donationCovid.conversationName" : {
+      "message" : "donationCovid"
+    },
+    "system.intent.receipt.conversationName" : {
+      "message" : "receipt"
+    },
+    "system.qna.receipt.answer" : {
+      "message" : null
+    },
+    "system.intent.findDoctor.conversationName" : {
+      "message" : "findDoctor"
+    },
+    "system.qna.findDoctor.answer" : {
+      "message" : null
+    },
+    "system.intent.MedicalHistory.conversationName" : {
+      "message" : "MedicalHistory"
+    }
+  }
+}

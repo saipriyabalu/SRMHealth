@@ -1,0 +1,21 @@
+{
+  "name" : "donationCovid",
+  "type" : "NLPIntent",
+  "intentParameters" : [ ],
+  "exampleData" : [ {
+    "sentence" : "I would like to donate for Covid",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Is there any way to donate",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "donations please",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Need to donate ",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Are donations accepted",
+    "exampleEntities" : [ ]
+  } ]
+}

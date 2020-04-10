@@ -1,0 +1,30 @@
+{
+  "name" : "healthstatus",
+  "intentParameters" : [ {
+    "name" : "ServicesOffered",
+    "required" : true,
+    "entity" : "ServicesOffered"
+  } ],
+  "exampleData" : [ {
+    "sentence" : "So much pain",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Major pains",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "I have severe",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "I have infections",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "I am not feeling good",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "I am super sick please help",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "feeling sick",
+    "exampleEntities" : [ ]
+  } ]
+}

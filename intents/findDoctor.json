@@ -1,0 +1,42 @@
+{
+  "name" : "findDoctor",
+  "intentParameters" : [ {
+    "name" : "Symptom",
+    "required" : true,
+    "entity" : "Symptom"
+  } ],
+  "exampleData" : [ {
+    "sentence" : "I am suffering from",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "I want to consult a doctor",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "I think I have",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Doctor consultation is required",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "I am allergic tp",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Help me find an appointment",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Book my doctor appointment",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Doctor needed",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Who are all the doctors around",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Suggest a good doctor",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "My blood sugar level is high",
+    "exampleEntities" : [ ]
+  } ]
+}

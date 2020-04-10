@@ -1,0 +1,11 @@
+{
+  "name" : "receipt",
+  "intentParameters" : [ ],
+  "exampleData" : [ {
+    "sentence" : "I want to see receipt",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "show me the receipt",
+    "exampleEntities" : [ ]
+  } ]
+}

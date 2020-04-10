@@ -1,0 +1,21 @@
+{
+  "name" : "ServicesOffered",
+  "type" : "ENUMVALUES",
+  "enumValues" : [ {
+    "canonicalName" : "Find a doctor",
+    "synonyms" : [ "Find doctor" ]
+  }, {
+    "canonicalName" : "Health Status",
+    "synonyms" : [ "medical history", "Medical records", "health info", "health information" ]
+  }, {
+    "canonicalName" : "Positive Health Theraphy",
+    "synonyms" : [ "Mental health theraphy", "theraphy" ]
+  } ],
+  "namedEntityRuleParams" : [ ],
+  "multiValue" : false,
+  "fuzzyMatch" : false,
+  "promptForDisambiguation" : false,
+  "botPrompts" : [ ],
+  "validationRules" : [ ],
+  "compositeBagItems" : [ ]
+}

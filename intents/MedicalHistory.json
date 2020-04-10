@@ -1,0 +1,20 @@
+{
+  "name" : "MedicalHistory",
+  "intentParameters" : [ ],
+  "exampleData" : [ {
+    "sentence" : "Show my health care history",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Show me my medical bills",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Show my medical balances",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Can I see my medical history",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Show me all my transactions",
+    "exampleEntities" : [ ]
+  } ]
+}

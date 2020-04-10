@@ -1,0 +1,8 @@
+{
+  "type" : "USER",
+  "name" : "HealthcareBot",
+  "displayName" : "HealthcareBot",
+  "version" : "1.0",
+  "intentTrainer" : "Tamao",
+  "trainingModels" : [ ]
+}

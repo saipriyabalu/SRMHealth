@@ -1,0 +1,29 @@
+{
+  "name" : "greetings",
+  "intentParameters" : [ ],
+  "exampleData" : [ {
+    "sentence" : "We are here to help!",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "menu",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Wassup",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Hello",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Ola",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "Hi",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "we are here to help!",
+    "exampleEntities" : [ ]
+  }, {
+    "sentence" : "-",
+    "exampleEntities" : [ ]
+  } ]
+}
